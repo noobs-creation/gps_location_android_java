@@ -18,14 +18,15 @@
         android:text="REQUEST LOCATION" />
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textViewLat"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button"
         android:layout_centerHorizontal="false"
         android:layout_gravity="center|center_horizontal|center_vertical"
         android:gravity="center|center_horizontal|center_vertical"
-        android:text="Coordinates : "
+        android:text="coordinates : "
         android:textAppearance="?android:attr/textAppearanceLarge" />
+
 
 </LinearLayout>
